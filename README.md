@@ -19,7 +19,7 @@
 ### 📫 Как связаться со мной: 
  
 <div id="badges">
-  <a href="https://t.me/maru_gonchar">
+  <a href="maru.gonchar@gmail.com">
     <img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://vk.com/marugonchar">
