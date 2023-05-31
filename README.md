@@ -22,11 +22,11 @@
   <a href="mailto:maru.gonchar@gmail.com"> 
     <img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+   <a href="https://t.me/maru_gonchar">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
   <a href="https://vk.com/marugonchar">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
-  </a>
-  <a href="https://t.me/maru_gonchar">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/maruhale&style=flat-square&color=blue" alt=""/>
