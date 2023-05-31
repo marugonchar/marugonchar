@@ -64,6 +64,6 @@
 
 ### :fire: Моя статистика :
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maruhale&theme=tokyonight-duo&locale=ru)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marugonchar&theme=tokyonight-duo&locale=ru)](https://git.io/streak-stats)
   <!-- BLOG-POST-LIST:END -->
 
