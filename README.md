@@ -30,7 +30,11 @@
   <a href="mailto:maru.gonchar@gmail.com"> 
     <img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-   <a href="https://t.me/maru_gonchar">
+  https://www.linkedin.com/in/marugonchar/
+   <a href="https://www.linkedin.com/in/marugonchar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/maru_gonchar">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/marugonchar">
