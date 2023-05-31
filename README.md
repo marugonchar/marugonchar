@@ -4,7 +4,7 @@
  
 <div id="header" align="center">
 
-  <b> Привет :shipit: меня зовут Мария! </b>
+  <b> Привет ✌️ меня зовут Мария! </b>
    
 ---
 <div id="header" align="left">  
