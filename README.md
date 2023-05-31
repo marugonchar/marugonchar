@@ -30,7 +30,6 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/maruhale&style=flat-square&color=blue" alt=""/>
-  
   ---
   <div id="header" align="left">  
     
