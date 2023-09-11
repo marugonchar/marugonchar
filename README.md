@@ -62,7 +62,9 @@
   
 > <a href="https://github.com/maruhale/unit-economy-calculator"> Калькулятор юнит-экономики</a> 
   
-> <a href="https://github.com/maruhale/project-modeling-changes-in-student-balances"> Моделирование изменения балансов студентов</a> 
+> <a href="https://github.com/maruhale/project-modeling-changes-in-student-balances"> Моделирование изменения балансов студентов</a>
+>
+> <a href="https://github.com/marugonchar/abtest/tree/main"> Анализ и визуализация АБ Теста в phyton</a>
 
 ---
 
